@@ -1,0 +1,151 @@
+Order_ID,Supplier_ID,Supplier_Name,Part_ID,Part_Name,Part_Category,Material,Order_Date,Required_Date,Delivery_Date,Ordered_Qty,Delivered_Qty,Unit_Cost,Total_Cost,Defect_Qty,Lead_Time_Days,On_Time,Quality_Status,Warehouse_ID,Warehouse,Region
+O0001,S002,Prime Components,P001,Brake Pad,Braking,Ceramic,06-05-2025,16-05-2025,15-05-2025,1608,1595,275,438625,22,9,Yes,Pass,WH03,Chennai,West
+O0002,S007,DriveLine Systems,P001,Brake Pad,Braking,Ceramic,17-02-2025,27-02-2025,01-03-2025,1134,1057,45,47565,71,12,No,Fail,WH01,Bengaluru,South
+O0003,S004,Global Motors Parts,P012,Clutch Plate,Transmission,Steel,23-04-2025,07-05-2025,16-05-2025,669,566,600,339600,0,23,No,Pass,WH04,Gurugram,North
+O0004,S003,Metro Auto Supply,P012,Clutch Plate,Transmission,Steel,24-06-2025,05-07-2025,03-07-2025,540,443,110,48730,6,9,Yes,Pass,WH04,Gurugram,South
+O0005,S002,Prime Components,P007,Alternator,Electrical,Aluminum,03-07-2025,23-07-2025,19-07-2025,1336,1303,450,586350,5,16,Yes,Pass,WH01,Bengaluru,West
+O0006,S008,Elite Automotive,P009,Door Panel,Body,Steel,13-07-2025,21-07-2025,04-08-2025,700,594,275,163350,39,22,No,Fail,WH01,Bengaluru,North
+O0007,S006,SteelTech Components,P010,Steering Rack,Steering,Steel,27-12-2025,04-01-2026,02-01-2026,1454,1425,450,641250,37,6,Yes,Pass,WH02,Pune,East
+O0008,S002,Prime Components,P004,Oil Filter,Engine,Paper,14-07-2025,25-07-2025,02-08-2025,1401,1295,110,142450,20,19,No,Pass,WH01,Bengaluru,West
+O0009,S006,SteelTech Components,P006,Headlamp,Electrical,Plastic,10-12-2025,21-12-2025,17-12-2025,1347,1266,65,82290,68,7,Yes,Fail,WH02,Pune,East
+O0010,S004,Global Motors Parts,P003,Engine Valve,Engine,Steel,14-07-2025,25-07-2025,05-08-2025,549,462,110,50820,3,22,No,Pass,WH04,Gurugram,North
+O0011,S004,Global Motors Parts,P001,Brake Pad,Braking,Ceramic,25-07-2025,05-08-2025,01-08-2025,532,416,220,91520,20,7,Yes,Fail,WH03,Chennai,North
+O0012,S004,Global Motors Parts,P011,Shock Absorber,Suspension,Steel,22-07-2025,08-08-2025,10-08-2025,392,359,65,23335,7,19,No,Pass,WH04,Gurugram,North
+O0013,S005,Precision Auto,P012,Clutch Plate,Transmission,Steel,26-10-2025,08-11-2025,11-11-2025,549,532,180,95760,31,16,No,Fail,WH04,Gurugram,West
+O0014,S002,Prime Components,P001,Brake Pad,Braking,Ceramic,20-03-2025,06-04-2025,30-03-2025,1722,1635,125,204375,16,10,Yes,Pass,WH01,Bengaluru,West
+O0015,S007,DriveLine Systems,P007,Alternator,Electrical,Aluminum,28-09-2025,09-10-2025,20-10-2025,1862,1742,45,78390,29,22,No,Pass,WH04,Gurugram,South
+O0016,S005,Precision Auto,P011,Shock Absorber,Suspension,Steel,27-02-2025,10-03-2025,17-03-2025,423,365,45,16425,23,18,No,Fail,WH03,Chennai,West
+O0017,S005,Precision Auto,P009,Door Panel,Body,Steel,17-09-2025,25-09-2025,01-10-2025,1823,1742,180,313560,50,14,No,Pass,WH02,Pune,West
+O0018,S003,Metro Auto Supply,P006,Headlamp,Electrical,Plastic,04-10-2025,23-10-2025,25-10-2025,1981,1981,220,435820,82,21,No,Fail,WH02,Pune,South
+O0019,S008,Elite Automotive,P001,Brake Pad,Braking,Ceramic,05-07-2025,25-07-2025,19-07-2025,590,583,80,46640,36,14,Yes,Fail,WH01,Bengaluru,North
+O0020,S002,Prime Components,P002,Brake Disc,Braking,Steel,05-02-2025,24-02-2025,27-02-2025,1668,1652,65,107380,121,22,No,Fail,WH04,Gurugram,West
+O0021,S003,Metro Auto Supply,P005,Air Filter,Engine,Synthetic,19-04-2025,04-05-2025,30-04-2025,1560,1521,125,190125,85,11,Yes,Fail,WH04,Gurugram,South
+O0022,S006,SteelTech Components,P008,Bumper,Body,Plastic,03-03-2025,13-03-2025,15-03-2025,231,188,45,8460,7,12,No,Fail,WH04,Gurugram,East
+O0023,S004,Global Motors Parts,P001,Brake Pad,Braking,Ceramic,29-12-2025,15-01-2026,04-01-2026,568,560,45,25200,21,6,Yes,Fail,WH01,Bengaluru,North
+O0024,S002,Prime Components,P009,Door Panel,Body,Steel,23-05-2025,09-06-2025,12-06-2025,538,469,65,30485,36,20,No,Fail,WH02,Pune,West
+O0025,S008,Elite Automotive,P004,Oil Filter,Engine,Paper,28-07-2025,07-08-2025,05-08-2025,298,214,125,26750,11,8,Yes,Fail,WH04,Gurugram,North
+O0026,S007,DriveLine Systems,P007,Alternator,Electrical,Aluminum,28-01-2025,14-02-2025,05-02-2025,224,173,350,60550,5,8,Yes,Pass,WH04,Gurugram,South
+O0027,S002,Prime Components,P004,Oil Filter,Engine,Paper,08-04-2025,23-04-2025,27-04-2025,387,333,65,21645,8,19,No,Pass,WH02,Pune,West
+O0028,S008,Elite Automotive,P004,Oil Filter,Engine,Paper,15-08-2025,03-09-2025,06-09-2025,300,294,275,80850,17,22,No,Fail,WH01,Bengaluru,North
+O0029,S001,AutoParts India,P002,Brake Disc,Braking,Steel,27-03-2025,09-04-2025,16-04-2025,1085,1058,600,634800,51,20,No,Fail,WH02,Pune,South
+O0030,S001,AutoParts India,P003,Engine Valve,Engine,Steel,02-01-2025,15-01-2025,15-01-2025,1997,1897,450,853650,116,13,Yes,Fail,WH04,Gurugram,South
+O0031,S005,Precision Auto,P007,Alternator,Electrical,Aluminum,21-03-2025,31-03-2025,04-04-2025,545,538,220,118360,34,14,No,Fail,WH04,Gurugram,West
+O0032,S001,AutoParts India,P012,Clutch Plate,Transmission,Steel,30-01-2025,06-02-2025,22-02-2025,1076,1012,600,607200,67,23,No,Fail,WH03,Chennai,South
+O0033,S003,Metro Auto Supply,P001,Brake Pad,Braking,Ceramic,06-04-2025,14-04-2025,30-04-2025,239,153,600,91800,3,24,No,Pass,WH01,Bengaluru,South
+O0034,S007,DriveLine Systems,P002,Brake Disc,Braking,Steel,24-10-2025,09-11-2025,30-10-2025,1368,1358,125,169750,84,6,Yes,Fail,WH02,Pune,South
+O0035,S006,SteelTech Components,P005,Air Filter,Engine,Synthetic,09-12-2025,27-12-2025,24-12-2025,588,555,125,69375,8,15,Yes,Pass,WH02,Pune,East
+O0036,S005,Precision Auto,P008,Bumper,Body,Plastic,07-02-2025,14-02-2025,26-02-2025,1372,1300,55,71500,9,19,No,Pass,WH03,Chennai,West
+O0037,S004,Global Motors Parts,P009,Door Panel,Body,Steel,09-03-2025,21-03-2025,16-03-2025,1900,1869,110,205590,72,7,Yes,Fail,WH03,Chennai,North
+O0038,S003,Metro Auto Supply,P008,Bumper,Body,Plastic,10-11-2025,29-11-2025,01-12-2025,116,31,600,18600,2,21,No,Fail,WH03,Chennai,South
+O0039,S005,Precision Auto,P011,Shock Absorber,Suspension,Steel,10-03-2025,21-03-2025,18-03-2025,1922,1909,350,668150,141,8,Yes,Fail,WH01,Bengaluru,West
+O0040,S003,Metro Auto Supply,P005,Air Filter,Engine,Synthetic,06-11-2025,16-11-2025,21-11-2025,516,429,275,117975,16,15,No,Fail,WH03,Chennai,South
+O0041,S008,Elite Automotive,P005,Air Filter,Engine,Synthetic,17-02-2025,06-03-2025,07-03-2025,1798,1763,45,79335,0,18,No,Pass,WH01,Bengaluru,North
+O0042,S006,SteelTech Components,P003,Engine Valve,Engine,Steel,24-03-2025,11-04-2025,12-04-2025,1229,1139,125,142375,71,19,No,Fail,WH03,Chennai,East
+O0043,S001,AutoParts India,P002,Brake Disc,Braking,Steel,20-12-2025,29-12-2025,11-01-2026,173,67,110,7370,4,22,No,Fail,WH01,Bengaluru,South
+O0044,S003,Metro Auto Supply,P007,Alternator,Electrical,Aluminum,22-01-2025,02-02-2025,07-02-2025,1941,1822,450,819900,10,16,No,Pass,WH02,Pune,South
+O0045,S006,SteelTech Components,P004,Oil Filter,Engine,Paper,08-12-2025,16-12-2025,24-12-2025,1697,1626,600,975600,104,16,No,Fail,WH02,Pune,East
+O0046,S003,Metro Auto Supply,P004,Oil Filter,Engine,Paper,01-04-2025,14-04-2025,06-04-2025,467,373,110,41030,25,5,Yes,Fail,WH02,Pune,South
+O0047,S007,DriveLine Systems,P011,Shock Absorber,Suspension,Steel,17-05-2025,26-05-2025,25-05-2025,883,772,45,34740,54,8,Yes,Fail,WH02,Pune,South
+O0048,S008,Elite Automotive,P004,Oil Filter,Engine,Paper,24-08-2025,05-09-2025,07-09-2025,1780,1679,600,1007400,58,14,No,Fail,WH02,Pune,North
+O0049,S004,Global Motors Parts,P001,Brake Pad,Braking,Ceramic,24-07-2025,05-08-2025,06-08-2025,1870,1862,450,837900,71,13,No,Fail,WH02,Pune,North
+O0050,S006,SteelTech Components,P011,Shock Absorber,Suspension,Steel,14-12-2025,03-01-2026,05-01-2026,778,658,45,29610,7,22,No,Pass,WH04,Gurugram,East
+O0051,S005,Precision Auto,P003,Engine Valve,Engine,Steel,20-01-2025,28-01-2025,13-02-2025,989,945,350,330750,40,24,No,Fail,WH03,Chennai,West
+O0052,S007,DriveLine Systems,P010,Steering Rack,Steering,Steel,17-07-2025,02-08-2025,28-07-2025,621,616,350,215600,27,11,Yes,Fail,WH01,Bengaluru,South
+O0053,S001,AutoParts India,P009,Door Panel,Body,Steel,06-07-2025,19-07-2025,13-07-2025,1460,1343,110,147730,79,7,Yes,Fail,WH02,Pune,South
+O0054,S006,SteelTech Components,P011,Shock Absorber,Suspension,Steel,03-06-2025,18-06-2025,17-06-2025,1465,1413,110,155430,51,14,Yes,Fail,WH01,Bengaluru,East
+O0055,S005,Precision Auto,P009,Door Panel,Body,Steel,09-04-2025,22-04-2025,26-04-2025,1487,1392,65,90480,78,17,No,Fail,WH02,Pune,West
+O0056,S005,Precision Auto,P007,Alternator,Electrical,Aluminum,05-06-2025,16-06-2025,16-06-2025,980,880,220,193600,41,11,Yes,Fail,WH01,Bengaluru,West
+O0057,S008,Elite Automotive,P008,Bumper,Body,Plastic,12-12-2025,22-12-2025,02-01-2026,1069,968,450,435600,21,21,No,Pass,WH04,Gurugram,North
+O0058,S002,Prime Components,P005,Air Filter,Engine,Synthetic,17-02-2025,09-03-2025,01-03-2025,1477,1438,80,115040,103,12,Yes,Fail,WH03,Chennai,West
+O0059,S004,Global Motors Parts,P003,Engine Valve,Engine,Steel,24-01-2025,03-02-2025,13-02-2025,1351,1243,450,559350,9,20,No,Pass,WH01,Bengaluru,North
+O0060,S008,Elite Automotive,P007,Alternator,Electrical,Aluminum,23-12-2025,05-01-2026,12-01-2026,918,887,65,57655,0,20,No,Pass,WH02,Pune,North
+O0061,S002,Prime Components,P007,Alternator,Electrical,Aluminum,01-04-2025,20-04-2025,22-04-2025,1051,1045,180,188100,31,21,No,Pass,WH02,Pune,West
+O0062,S002,Prime Components,P008,Bumper,Body,Plastic,26-08-2025,12-09-2025,16-09-2025,1244,1168,110,128480,56,21,No,Fail,WH02,Pune,West
+O0063,S007,DriveLine Systems,P009,Door Panel,Body,Steel,23-03-2025,10-04-2025,12-04-2025,1021,988,450,444600,31,20,No,Fail,WH04,Gurugram,South
+O0064,S005,Precision Auto,P009,Door Panel,Body,Steel,17-11-2025,27-11-2025,30-11-2025,1000,991,350,346850,36,13,No,Fail,WH04,Gurugram,West
+O0065,S004,Global Motors Parts,P005,Air Filter,Engine,Synthetic,13-06-2025,28-06-2025,20-06-2025,383,364,80,29120,12,7,Yes,Fail,WH03,Chennai,North
+O0066,S003,Metro Auto Supply,P012,Clutch Plate,Transmission,Steel,02-02-2025,15-02-2025,20-02-2025,777,708,150,106200,26,18,No,Fail,WH02,Pune,South
+O0067,S001,AutoParts India,P004,Oil Filter,Engine,Paper,19-07-2025,07-08-2025,11-08-2025,1524,1522,600,913200,112,23,No,Fail,WH04,Gurugram,South
+O0068,S007,DriveLine Systems,P008,Bumper,Body,Plastic,30-06-2025,11-07-2025,17-07-2025,1847,1733,600,1039800,107,17,No,Fail,WH01,Bengaluru,South
+O0069,S004,Global Motors Parts,P008,Bumper,Body,Plastic,20-05-2025,02-06-2025,09-06-2025,159,110,110,12100,6,20,No,Fail,WH02,Pune,North
+O0070,S003,Metro Auto Supply,P008,Bumper,Body,Plastic,15-11-2025,30-11-2025,20-11-2025,1957,1907,220,419540,144,5,Yes,Fail,WH02,Pune,South
+O0071,S001,AutoParts India,P002,Brake Disc,Braking,Steel,11-03-2025,31-03-2025,30-03-2025,472,466,95,44270,24,19,Yes,Fail,WH04,Gurugram,South
+O0072,S006,SteelTech Components,P004,Oil Filter,Engine,Paper,17-06-2025,29-06-2025,04-07-2025,669,573,600,343800,26,17,No,Fail,WH04,Gurugram,East
+O0073,S005,Precision Auto,P002,Brake Disc,Braking,Steel,10-01-2025,28-01-2025,01-02-2025,206,162,80,12960,10,22,No,Fail,WH04,Gurugram,West
+O0074,S002,Prime Components,P011,Shock Absorber,Suspension,Steel,16-01-2025,26-01-2025,27-01-2025,1818,1816,220,399520,39,11,No,Pass,WH01,Bengaluru,West
+O0075,S004,Global Motors Parts,P003,Engine Valve,Engine,Steel,09-12-2025,17-12-2025,01-01-2026,546,487,350,170450,16,23,No,Fail,WH04,Gurugram,North
+O0076,S006,SteelTech Components,P003,Engine Valve,Engine,Steel,25-03-2025,05-04-2025,02-04-2025,1285,1282,95,121790,73,8,Yes,Fail,WH01,Bengaluru,East
+O0077,S007,DriveLine Systems,P007,Alternator,Electrical,Aluminum,08-02-2025,24-02-2025,20-02-2025,308,219,450,98550,9,12,Yes,Fail,WH02,Pune,South
+O0078,S002,Prime Components,P010,Steering Rack,Steering,Steel,27-06-2025,12-07-2025,15-07-2025,1454,1407,55,77385,64,18,No,Fail,WH01,Bengaluru,West
+O0079,S006,SteelTech Components,P001,Brake Pad,Braking,Ceramic,08-09-2025,16-09-2025,26-09-2025,841,760,600,456000,29,18,No,Fail,WH04,Gurugram,East
+O0080,S003,Metro Auto Supply,P007,Alternator,Electrical,Aluminum,25-09-2025,12-10-2025,08-10-2025,1361,1258,180,226440,99,13,Yes,Fail,WH02,Pune,South
+O0081,S008,Elite Automotive,P008,Bumper,Body,Plastic,31-10-2025,11-11-2025,15-11-2025,1844,1813,600,1087800,22,15,No,Pass,WH04,Gurugram,North
+O0082,S005,Precision Auto,P008,Bumper,Body,Plastic,26-08-2025,11-09-2025,19-09-2025,1468,1420,110,156200,3,24,No,Pass,WH02,Pune,West
+O0083,S008,Elite Automotive,P006,Headlamp,Electrical,Plastic,07-09-2025,17-09-2025,23-09-2025,1733,1700,110,187000,71,16,No,Fail,WH02,Pune,North
+O0084,S005,Precision Auto,P009,Door Panel,Body,Steel,22-09-2025,02-10-2025,29-09-2025,594,502,125,62750,31,7,Yes,Fail,WH01,Bengaluru,West
+O0085,S004,Global Motors Parts,P012,Clutch Plate,Transmission,Steel,27-11-2025,15-12-2025,17-12-2025,1017,916,45,41220,11,20,No,Pass,WH04,Gurugram,North
+O0086,S005,Precision Auto,P004,Oil Filter,Engine,Paper,21-12-2025,31-12-2025,04-01-2026,1459,1385,110,152350,60,14,No,Fail,WH04,Gurugram,West
+O0087,S006,SteelTech Components,P007,Alternator,Electrical,Aluminum,30-06-2025,18-07-2025,19-07-2025,654,615,95,58425,14,19,No,Pass,WH03,Chennai,East
+O0088,S002,Prime Components,P012,Clutch Plate,Transmission,Steel,11-06-2025,19-06-2025,03-07-2025,1660,1572,65,102180,24,22,No,Pass,WH02,Pune,West
+O0089,S004,Global Motors Parts,P012,Clutch Plate,Transmission,Steel,22-05-2025,09-06-2025,14-06-2025,1656,1589,220,349580,72,23,No,Fail,WH04,Gurugram,North
+O0090,S002,Prime Components,P004,Oil Filter,Engine,Paper,27-04-2025,09-05-2025,07-05-2025,719,718,350,251300,34,10,Yes,Fail,WH03,Chennai,West
+O0091,S003,Metro Auto Supply,P005,Air Filter,Engine,Synthetic,28-01-2025,12-02-2025,11-02-2025,1528,1408,65,91520,81,14,Yes,Fail,WH01,Bengaluru,South
+O0092,S008,Elite Automotive,P002,Brake Disc,Braking,Steel,21-10-2025,01-11-2025,10-11-2025,1080,1024,110,112640,23,20,No,Pass,WH01,Bengaluru,North
+O0093,S001,AutoParts India,P005,Air Filter,Engine,Synthetic,28-02-2025,20-03-2025,07-03-2025,920,858,55,47190,6,7,Yes,Pass,WH04,Gurugram,South
+O0094,S003,Metro Auto Supply,P003,Engine Valve,Engine,Steel,13-02-2025,23-02-2025,21-02-2025,1242,1145,125,143125,77,8,Yes,Fail,WH03,Chennai,South
+O0095,S004,Global Motors Parts,P009,Door Panel,Body,Steel,19-08-2025,02-09-2025,02-09-2025,1861,1786,125,223250,78,14,Yes,Fail,WH04,Gurugram,North
+O0096,S001,AutoParts India,P010,Steering Rack,Steering,Steel,17-04-2025,04-05-2025,28-04-2025,641,557,55,30635,10,11,Yes,Pass,WH01,Bengaluru,South
+O0097,S004,Global Motors Parts,P003,Engine Valve,Engine,Steel,22-03-2025,29-03-2025,09-04-2025,1022,934,220,205480,60,18,No,Fail,WH01,Bengaluru,North
+O0098,S005,Precision Auto,P001,Brake Pad,Braking,Ceramic,28-05-2025,15-06-2025,11-06-2025,1539,1429,150,214350,9,14,Yes,Pass,WH02,Pune,West
+O0099,S004,Global Motors Parts,P005,Air Filter,Engine,Synthetic,06-08-2025,14-08-2025,28-08-2025,560,478,65,31070,17,22,No,Fail,WH02,Pune,North
+O0100,S003,Metro Auto Supply,P002,Brake Disc,Braking,Steel,26-03-2025,14-04-2025,09-04-2025,1318,1223,600,733800,72,14,Yes,Fail,WH01,Bengaluru,South
+O0101,S005,Precision Auto,P008,Bumper,Body,Plastic,28-08-2025,15-09-2025,11-09-2025,1533,1482,95,140790,64,14,Yes,Fail,WH01,Bengaluru,West
+O0102,S008,Elite Automotive,P008,Bumper,Body,Plastic,03-11-2025,10-11-2025,21-11-2025,1604,1563,220,343860,32,18,No,Pass,WH01,Bengaluru,North
+O0103,S001,AutoParts India,P002,Brake Disc,Braking,Steel,12-12-2025,01-01-2026,04-01-2026,1302,1300,450,585000,86,23,No,Fail,WH02,Pune,South
+O0104,S005,Precision Auto,P010,Steering Rack,Steering,Steel,31-03-2025,14-04-2025,21-04-2025,1434,1378,95,130910,23,21,No,Pass,WH01,Bengaluru,West
+O0105,S007,DriveLine Systems,P011,Shock Absorber,Suspension,Steel,16-02-2025,02-03-2025,04-03-2025,936,894,110,98340,13,16,No,Pass,WH04,Gurugram,South
+O0106,S003,Metro Auto Supply,P006,Headlamp,Electrical,Plastic,22-12-2025,05-01-2026,05-01-2026,1456,1336,125,167000,104,14,Yes,Fail,WH04,Gurugram,South
+O0107,S001,AutoParts India,P008,Bumper,Body,Plastic,11-06-2025,22-06-2025,26-06-2025,337,239,125,29875,16,15,No,Fail,WH01,Bengaluru,South
+O0108,S001,AutoParts India,P011,Shock Absorber,Suspension,Steel,31-07-2025,07-08-2025,11-08-2025,1161,1115,220,245300,63,11,No,Fail,WH04,Gurugram,South
+O0109,S008,Elite Automotive,P001,Brake Pad,Braking,Ceramic,17-05-2025,01-06-2025,26-05-2025,1999,1963,150,294450,124,9,Yes,Fail,WH02,Pune,North
+O0110,S002,Prime Components,P001,Brake Pad,Braking,Ceramic,30-12-2025,08-01-2026,13-01-2026,1228,1227,180,220860,52,14,No,Fail,WH02,Pune,West
+O0111,S002,Prime Components,P004,Oil Filter,Engine,Paper,25-08-2025,02-09-2025,03-09-2025,1120,1001,350,350350,37,9,No,Fail,WH01,Bengaluru,West
+O0112,S005,Precision Auto,P007,Alternator,Electrical,Aluminum,30-08-2025,09-09-2025,18-09-2025,1228,1210,125,151250,24,19,No,Pass,WH04,Gurugram,West
+O0113,S003,Metro Auto Supply,P002,Brake Disc,Braking,Steel,01-08-2025,13-08-2025,22-08-2025,647,542,45,24390,18,21,No,Fail,WH03,Chennai,South
+O0114,S005,Precision Auto,P010,Steering Rack,Steering,Steel,18-03-2025,01-04-2025,09-04-2025,1091,1047,110,115170,70,22,No,Fail,WH04,Gurugram,West
+O0115,S007,DriveLine Systems,P008,Bumper,Body,Plastic,07-04-2025,25-04-2025,19-04-2025,1271,1222,80,97760,52,12,Yes,Fail,WH03,Chennai,South
+O0116,S001,AutoParts India,P006,Headlamp,Electrical,Plastic,28-12-2025,16-01-2026,14-01-2026,890,806,450,362700,19,17,Yes,Pass,WH04,Gurugram,South
+O0117,S008,Elite Automotive,P001,Brake Pad,Braking,Ceramic,15-09-2025,01-10-2025,30-09-2025,1881,1869,600,1121400,112,15,Yes,Fail,WH02,Pune,North
+O0118,S002,Prime Components,P009,Door Panel,Body,Steel,08-01-2025,26-01-2025,17-01-2025,939,828,275,227700,19,9,Yes,Pass,WH04,Gurugram,West
+O0119,S002,Prime Components,P008,Bumper,Body,Plastic,23-06-2025,09-07-2025,10-07-2025,1430,1420,600,852000,42,17,No,Pass,WH03,Chennai,West
+O0120,S007,DriveLine Systems,P006,Headlamp,Electrical,Plastic,05-10-2025,12-10-2025,29-10-2025,240,210,275,57750,9,24,No,Fail,WH04,Gurugram,South
+O0121,S004,Global Motors Parts,P012,Clutch Plate,Transmission,Steel,11-08-2025,19-08-2025,19-08-2025,1008,987,350,345450,38,8,Yes,Fail,WH01,Bengaluru,North
+O0122,S001,AutoParts India,P001,Brake Pad,Braking,Ceramic,29-01-2025,09-02-2025,14-02-2025,867,812,65,52780,31,16,No,Fail,WH03,Chennai,South
+O0123,S007,DriveLine Systems,P010,Steering Rack,Steering,Steel,29-03-2025,07-04-2025,05-04-2025,1348,1237,125,154625,79,7,Yes,Fail,WH02,Pune,South
+O0124,S004,Global Motors Parts,P008,Bumper,Body,Plastic,29-04-2025,13-05-2025,12-05-2025,1041,1009,275,277475,1,13,Yes,Pass,WH02,Pune,North
+O0125,S008,Elite Automotive,P005,Air Filter,Engine,Synthetic,07-02-2025,21-02-2025,23-02-2025,1303,1265,275,347875,54,16,No,Fail,WH02,Pune,North
+O0126,S005,Precision Auto,P008,Bumper,Body,Plastic,12-04-2025,25-04-2025,02-05-2025,318,288,125,36000,18,20,No,Fail,WH03,Chennai,West
+O0127,S006,SteelTech Components,P010,Steering Rack,Steering,Steel,25-12-2025,05-01-2026,30-12-2025,1799,1715,125,214375,70,5,Yes,Fail,WH03,Chennai,East
+O0128,S001,AutoParts India,P010,Steering Rack,Steering,Steel,07-11-2025,25-11-2025,27-11-2025,1805,1690,95,160550,58,20,No,Fail,WH01,Bengaluru,South
+O0129,S006,SteelTech Components,P004,Oil Filter,Engine,Paper,14-11-2025,25-11-2025,23-11-2025,1386,1374,275,377850,82,9,Yes,Fail,WH02,Pune,East
+O0130,S001,AutoParts India,P005,Air Filter,Engine,Synthetic,18-01-2025,03-02-2025,03-02-2025,1599,1583,55,87065,116,16,Yes,Fail,WH04,Gurugram,South
+O0131,S005,Precision Auto,P006,Headlamp,Electrical,Plastic,31-03-2025,10-04-2025,09-04-2025,1710,1641,110,180510,128,9,Yes,Fail,WH04,Gurugram,West
+O0132,S005,Precision Auto,P003,Engine Valve,Engine,Steel,04-09-2025,23-09-2025,18-09-2025,1628,1517,110,166870,102,14,Yes,Fail,WH03,Chennai,West
+O0133,S002,Prime Components,P008,Bumper,Body,Plastic,14-03-2025,02-04-2025,26-03-2025,1861,1775,350,621250,101,12,Yes,Fail,WH01,Bengaluru,West
+O0134,S006,SteelTech Components,P002,Brake Disc,Braking,Steel,08-01-2025,19-01-2025,30-01-2025,353,295,110,32450,21,22,No,Fail,WH04,Gurugram,East
+O0135,S005,Precision Auto,P010,Steering Rack,Steering,Steel,23-11-2025,05-12-2025,01-12-2025,1482,1453,150,217950,3,8,Yes,Pass,WH04,Gurugram,West
+O0136,S006,SteelTech Components,P010,Steering Rack,Steering,Steel,28-11-2025,06-12-2025,17-12-2025,1962,1873,95,177935,104,19,No,Fail,WH02,Pune,East
+O0137,S002,Prime Components,P003,Engine Valve,Engine,Steel,20-01-2025,31-01-2025,09-02-2025,337,325,80,26000,17,20,No,Fail,WH01,Bengaluru,West
+O0138,S003,Metro Auto Supply,P007,Alternator,Electrical,Aluminum,09-07-2025,26-07-2025,31-07-2025,958,883,350,309050,19,22,No,Pass,WH04,Gurugram,South
+O0139,S007,DriveLine Systems,P011,Shock Absorber,Suspension,Steel,08-09-2025,24-09-2025,26-09-2025,672,668,350,233800,23,18,No,Fail,WH01,Bengaluru,South
+O0140,S004,Global Motors Parts,P008,Bumper,Body,Plastic,01-05-2025,21-05-2025,17-05-2025,303,216,110,23760,17,16,Yes,Fail,WH04,Gurugram,North
+O0141,S006,SteelTech Components,P001,Brake Pad,Braking,Ceramic,22-05-2025,01-06-2025,30-05-2025,1836,1731,150,259650,23,8,Yes,Pass,WH04,Gurugram,East
+O0142,S004,Global Motors Parts,P011,Shock Absorber,Suspension,Steel,26-01-2025,14-02-2025,10-02-2025,598,582,450,261900,36,15,Yes,Fail,WH01,Bengaluru,North
+O0143,S004,Global Motors Parts,P002,Brake Disc,Braking,Steel,28-10-2025,07-11-2025,09-11-2025,772,673,65,43745,50,12,No,Fail,WH02,Pune,North
+O0144,S001,AutoParts India,P005,Air Filter,Engine,Synthetic,08-03-2025,23-03-2025,21-03-2025,1735,1713,55,94215,6,13,Yes,Pass,WH02,Pune,South
+O0145,S003,Metro Auto Supply,P001,Brake Pad,Braking,Ceramic,02-05-2025,18-05-2025,17-05-2025,132,110,95,10450,0,15,Yes,Pass,WH03,Chennai,South
+O0146,S003,Metro Auto Supply,P012,Clutch Plate,Transmission,Steel,27-09-2025,05-10-2025,04-10-2025,1075,1018,450,458100,46,7,Yes,Fail,WH04,Gurugram,South
+O0147,S002,Prime Components,P008,Bumper,Body,Plastic,11-11-2025,18-11-2025,02-12-2025,717,659,275,181225,1,21,No,Pass,WH02,Pune,West
+O0148,S001,AutoParts India,P008,Bumper,Body,Plastic,07-08-2025,24-08-2025,15-08-2025,1104,1013,150,151950,9,8,Yes,Pass,WH04,Gurugram,South
+O0149,S002,Prime Components,P006,Headlamp,Electrical,Plastic,03-02-2025,12-02-2025,16-02-2025,1378,1297,220,285340,70,13,No,Fail,WH02,Pune,West
+O0150,S006,SteelTech Components,P007,Alternator,Electrical,Aluminum,21-08-2025,05-09-2025,14-09-2025,981,969,450,436050,14,24,No,Pass,WH03,Chennai,East

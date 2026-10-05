@@ -1,0 +1,16 @@
+Supplier_ID,Supplier_Name,Supplier_Location,Supplier_Type,Contact_Person
+S001,ABC Auto Parts,Bengaluru,Tier 1,Ravi
+S002,Prime Components,Chennai,Tier 1,Kumar
+S003,Global Motors,Pune,Tier 2,Amit
+S004,SteelWorks Ltd,Mumbai,Raw Material,Rajesh
+S005,FastGear Pvt Ltd,Hyderabad,Tier 2,Suresh
+S006,AutoTech Solutions,Bengaluru,Tier 1,Arun
+S007,Precision Parts,Pune,Tier 2,Manoj
+S008,MetalCraft Industries,Chennai,Raw Material,Vijay
+S009,Speed Components,Delhi,Tier 2,Ramesh
+S010,Prime Auto Systems,Mumbai,Tier 1,Mahesh
+S011,Quality Parts Ltd,Hyderabad,Tier 2,Naveen
+S012,Bharat Engineering,Bengaluru,Raw Material,Ganesh
+S013,DriveTech,Pune,Tier 1,Sanjay
+S014,United Auto Parts,Chennai,Tier 2,Prakash
+S015,Superior Components,Delhi,Tier 1,Deepak
